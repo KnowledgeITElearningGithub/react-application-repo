@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.db62923b.css",
-    "main.js": "/static/js/main.87f6a429.js",
-    "static/js/453.93f5f010.chunk.js": "/static/js/453.93f5f010.chunk.js",
-    "static/media/imageia1.jpg": "/static/media/imageia1.17e60fc9af75950cdec5.jpg",
-    "static/media/imageia2.jpg": "/static/media/imageia2.e913a42b541c48c79692.jpg",
-    "index.html": "/index.html",
-    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
-    "main.87f6a429.js.map": "/static/js/main.87f6a429.js.map",
-    "453.93f5f010.chunk.js.map": "/static/js/453.93f5f010.chunk.js.map"
+    "main.css": "/react-application-repo/static/css/main.db62923b.css",
+    "main.js": "/react-application-repo/static/js/main.0c9b1f11.js",
+    "static/js/453.93f5f010.chunk.js": "/react-application-repo/static/js/453.93f5f010.chunk.js",
+    "static/media/imageia1.jpg": "/react-application-repo/static/media/imageia1.17e60fc9af75950cdec5.jpg",
+    "static/media/imageia2.jpg": "/react-application-repo/static/media/imageia2.e913a42b541c48c79692.jpg",
+    "index.html": "/react-application-repo/index.html",
+    "main.db62923b.css.map": "/react-application-repo/static/css/main.db62923b.css.map",
+    "main.0c9b1f11.js.map": "/react-application-repo/static/js/main.0c9b1f11.js.map",
+    "453.93f5f010.chunk.js.map": "/react-application-repo/static/js/453.93f5f010.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.87f6a429.js"
+    "static/js/main.0c9b1f11.js"
   ]
 }
